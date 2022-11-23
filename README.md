@@ -8,10 +8,10 @@ Renan Gomes - SP3081796
 
 Padrões escolhidos:
 
-Criação:
+Criação: Singleton e Factory Method
 
-Estruturais:
+Estruturais: Decorator e Composite
 
-Comportamentais:
+Comportamentais: State e Interpreter
 
 
