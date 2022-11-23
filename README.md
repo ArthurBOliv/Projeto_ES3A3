@@ -3,10 +3,15 @@ Este projeto consiste na apresentação do diagrama de classes, comunicação e 
 com exemplos de códigos que os utilizam.
 
 Arthur Barbosa de Oliveira - SP30469744
+
 Renan Gomes - SP3081796
 
 Padrões escolhidos:
 
 Criação:
+
 Estruturais:
+
 Comportamentais:
+
+
