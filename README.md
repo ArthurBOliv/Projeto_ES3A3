@@ -6,6 +6,8 @@ Arthur Barbosa de Oliveira - SP30469744
 
 Renan Gomes - SP3081796
 
+Renato Martins Ferreira - SP3086411
+
 Padrões escolhidos:
 
 Criação: Singleton e ProtoType
